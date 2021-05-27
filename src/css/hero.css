@@ -1,0 +1,16 @@
+.hero {
+    max-width: 1200px;
+    margin: 80px auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.hero img {
+    width: 43%;
+
+}
+
+.hero-info {
+
+}
