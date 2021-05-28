@@ -5,7 +5,7 @@ import FadeIn from 'react-fade-in';
 
 function Hero () {
     return (
-        <FadeIn transitionDuration="800">
+        <FadeIn transitionDuration="2000">
             <div className="hero">
                 <div className="img-hero">
                     <img src={hero} alt="hero" />
