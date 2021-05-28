@@ -1,0 +1,26 @@
+.btn-primary {
+    border: none;
+    padding: 15px 40px 15px 40px;
+    background-color: #4c77e0;
+    cursor: pointer;
+    color: #fff;
+    font-weight: 800;
+    font-size: 16px;
+    border-radius: 4px;
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.btn-primary:hover {
+    border: none;
+    padding: 15px 40px 15px 40px;
+    background-color: #4368c7;
+    cursor: pointer;
+    color: #fff;
+    font-weight: 800;
+    font-size: 19px;
+    border-radius: 4px;
+    opacity: 1;
+    transition: 0.3s;
+}
+

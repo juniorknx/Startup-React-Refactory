@@ -6,11 +6,23 @@
     align-items: center;
 }
 
-.hero img {
-    width: 43%;
+.img-hero {
+    flex-grow: 1;
+    flex-basis: 30rem;
+}
 
+.img-hero img {
+    width: 80%;
 }
 
 .hero-info {
+    flex-grow: 1;
+}
 
+.hero-info h3 {
+    font-size: 18px;
+}
+
+.hero-info h1 {
+    font-size: 48px;
 }
