@@ -2,7 +2,6 @@ import '../src/css/services.css';
 import Cards from '../src/Cards';
 import cloudhost from '../src/assets/cloudhost.svg';
 import domain from '../src/assets/domain.svg';
-import responsive from '../src/assets/responsive.svg';
 import multiscreen from '../src/assets/multiscreen.svg';
 import mediasocial from '../src/assets/mediasocial.svg';
 import chat from '../src/assets/chat.svg';
