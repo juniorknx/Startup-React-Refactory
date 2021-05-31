@@ -3,6 +3,7 @@ import Header from '../src/Header'
 import Hero from '../src/Hero'
 import Services from '../src/services'
 import Contact from '../src/contact'
+import Testimonials from '../src/Testimonials'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
     <Hero />
     <Services />
     <Contact />
+    <Testimonials />
     </>
   );
 }
