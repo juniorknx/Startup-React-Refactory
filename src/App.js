@@ -4,6 +4,7 @@ import Hero from '../src/Hero'
 import Services from '../src/services'
 import Contact from '../src/contact'
 import Testimonials from '../src/Testimonials'
+import Slide from 'react-reveal/Slide';
 
 function App() {
   return (
@@ -11,7 +12,9 @@ function App() {
     <Header />
     <Hero />
     <Services />
-    <Contact />
+      <Slide left>
+        <Contact />
+      </Slide>
     <Testimonials />
     </>
   );
