@@ -49,3 +49,18 @@ a.login-btn:hover {
     opacity: 1;
 }
 
+@media(max-width:720px){
+    .menu {
+        display: flex;
+        justify-content: center;
+    }
+
+    .menu-nav ul {
+        display: flex;
+        justify-content: center;
+    }
+
+    a.login-btn {
+        margin-top: 10px;
+    }
+}
