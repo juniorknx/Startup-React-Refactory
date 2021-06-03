@@ -32,3 +32,28 @@ footer .rodape {
 .address a {
     color: rgb(9, 170, 9);
 }
+
+@media(max-width:720px){
+    footer {
+        margin-top:4rem;
+    }
+
+    footer .rodape {
+        display: flex;
+        align-items: center;
+        max-width: 315px;
+        text-align: center;
+    }
+
+    .menu-logo {
+        margin-bottom: 15px;
+    }
+
+    .about {
+        margin-bottom: 15px;
+    }
+
+    .address {
+        margin-bottom: 15px;
+    }
+}
