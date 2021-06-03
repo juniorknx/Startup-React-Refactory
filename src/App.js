@@ -4,7 +4,7 @@ import Hero from '../src/Hero'
 import Services from '../src/services'
 import Contact from '../src/contact'
 import Testimonials from '../src/Testimonials'
-import Slide from 'react-reveal/Slide';
+import Footer from './footer'
 
 function App() {
   return (
@@ -12,10 +12,9 @@ function App() {
     <Header />
     <Hero />
     <Services />
-      <Slide left>
-        <Contact />
-      </Slide>
+    <Contact />
     <Testimonials />
+    <Footer />
     </>
   );
 }
