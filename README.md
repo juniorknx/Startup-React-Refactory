@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img src="/src/assets/startup_fullsize_screenshot.png" alt="Screenshot">
+    <img src="./src/assets/startup_fullsize_screenshot.png" alt="Screenshot">
 
 # Getting Started with Create React App
 
@@ -22,4 +22,4 @@ You will also see any lint errors in the console.
 
 <br />
 <p align="center">
-    <img src="/src/assets/startup_mobile_screenshot.png" alt="Screenshot">
+    <img style="max-width: 50%;" src="./src/assets/startup_mobile_screenshot.png" alt="Screenshot">
